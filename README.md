@@ -1,5 +1,5 @@
 # Design-an-L298-2A-Motor-Driver-Circuit-using-Eagle-software-and-generate-the-Gerber-file.
-### Exp 4: Design an L298 2A Motor Driver Circuit using Eagle software and generate the Gerber file.
+### Exp 8: Design an L298 2A Motor Driver Circuit using Eagle software and generate the Gerber file.
 
 # AIM:
 To design the schematic and PCB layout diagram of an L298 2A Motor Driver Circuit using Eagle software.
